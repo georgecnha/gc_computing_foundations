@@ -17,7 +17,7 @@ Pronto. Agora é só clicar em CREATE.
 # Task 2: Create a Kubernetes service cluster
 
 ```shell
-gcloud container clusters create [NOME DA INTÂNCIA] \
+gcloud container clusters create [NOME DA INSTÂNCIA] \
           --num-nodes 1 \
           --network nucleus-vpc \
           --zone [ZONA DADA NA TASK 2]

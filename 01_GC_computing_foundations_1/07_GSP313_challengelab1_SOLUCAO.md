@@ -6,13 +6,18 @@ Dê preferencia a realizar o lab em inglês. O lab em português foi menos revis
 
 No console do Cloud, acesse o Menu de navegação (Ícone do menu de navegação) e clique em Compute Engine > VM Instances.
 A primeira inicialização pode levar alguns instantes.
-Para criar uma instância, clique em CREATE INSTANCE.
-O nome da instância deve ser o nome dado pela própria task.
-Não mexe na REGION, nem em ZONE.
-Em SERIES, seleciona N1
-Em MACHINE TYPE, f1-micro
 
-Pronto. Agora é só clicar em CREATE.
+1. Para criar uma instância, clique em CREATE INSTANCE.
+
+2. O nome da instância deve ser o nome dado pela própria task.
+
+3. Não mexe na REGION, nem em ZONE.
+
+4. Em SERIES, seleciona N1
+
+5. Em MACHINE TYPE, f1-micro
+
+6. Pronto. Agora é só clicar em CREATE.
 
 # Task 2: Create a Kubernetes service cluster
 
